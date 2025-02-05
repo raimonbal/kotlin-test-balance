@@ -1,13 +1,10 @@
-
-apply plugin: 'maven'
-
-group = 'com.github.raimonbal'
-
 plugins {
     id 'com.android.library'
     id 'org.jetbrains.kotlin.android'
     id 'maven-publish'
 }
+
+group = 'com.github.raimonbal'
 
 android {
     namespace 'com.balance.deviceidsdk'
