@@ -35,6 +35,12 @@ android {
     }
 }
 
+repositories {
+    google()
+    mavenCentral() // Add this if you use dependencies from Maven Central
+    maven("https://jitpack.io") // Add this if you use JitPack dependencies
+}
+
 dependencies {
     implementation 'androidx.core:core-ktx:1.12.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
