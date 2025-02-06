@@ -15,7 +15,7 @@ plugins {
 
 android {
     namespace 'com.balance.deviceidsdk'
-    compileSdk 35
+    compileSdk 33
 
     defaultConfig {
         minSdk 24
@@ -48,6 +48,10 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.2.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
     implementation 'com.github.jitpack:gradle-simple:1.0'
+}
+
+wrapper {
+    gradleVersion = '8.9'
 }
 
 afterEvaluate{
