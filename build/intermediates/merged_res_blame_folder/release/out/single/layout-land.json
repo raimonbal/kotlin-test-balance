@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-land/material_timepicker.xml",
+        "source": "com.balance.deviceidsdk-material-1.10.0-8:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "com.balance.deviceidsdk-material-1.10.0-8:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "com.balance.deviceidsdk-material-1.10.0-8:/layout-land/material_clock_period_toggle_land.xml"
+    }
+]

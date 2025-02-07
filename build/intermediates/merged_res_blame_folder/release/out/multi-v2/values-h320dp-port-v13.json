@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.balance.deviceidsdk-merged_res-31:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/rlapuente/.gradle/caches/8.9/transforms/54b8b24ce3fec1fb056034889df4b0ce/transformed/material-1.10.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.balance.deviceidsdk-mergeReleaseResources-29:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/rlapuente/.gradle/caches/8.9/transforms/54b8b24ce3fec1fb056034889df4b0ce/transformed/material-1.10.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

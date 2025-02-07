@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.balance.deviceidsdk-core-1.15.0-21:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-v21/notification_action.xml",
+        "source": "com.balance.deviceidsdk-core-1.15.0-21:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.balance.deviceidsdk-core-1.15.0-21:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.balance.deviceidsdk-core-1.15.0-21:/layout-v21/notification_template_icon_group.xml"
+    }
+]

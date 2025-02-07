@@ -1,12 +1,4 @@
 
-buildscript {
-    repositories {
-        google()
-        mavenCentral()
-        maven { url "https://jitpack.io" }
-    }
-}
-
 plugins {
     id 'com.android.library' version '8.1.0'
     id 'org.jetbrains.kotlin.android' version '1.9.22'
@@ -50,17 +42,13 @@ dependencies {
     implementation 'com.github.jitpack:gradle-simple:1.0'
 }
 
-wrapper {
-    gradleVersion = '8.9'
-}
-
 afterEvaluate{
     publishing{
         publications{
-            release(MavenPublication){
-                from components.java
+            create("release", MavenPublication) {
+                from components.release
 
-                groupId='com.balance.deviceidsdk'
+                groupId='com.github.raimonbal'
                 artifactId = 'deviceid'
                 version = '0.0.1'
             }

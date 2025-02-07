@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.balance.deviceidsdk-material-1.10.0-8:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.balance.deviceidsdk-material-1.10.0-8:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

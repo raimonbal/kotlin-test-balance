@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "com.balance.deviceidsdk-material-1.10.0-8:/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/color-night-v8/material_timepicker_clockface.xml",
+        "source": "com.balance.deviceidsdk-material-1.10.0-8:/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "com.balance.deviceidsdk-merged_res-31:/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "com.balance.deviceidsdk-material-1.10.0-8:/color-night-v8/material_timepicker_button_stroke.xml"
+    }
+]
